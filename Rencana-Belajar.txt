@@ -1,11 +1,14 @@
 Rencana Belajar
 
--Belajar Vue
--Belajar React
+-FrameWork PHP
+ ^Laravel
+-FrameWork JavaScript
+ ^Vue
+ ^React
 -Belajar C++
   *OOP
 -Belajar Java
   *OOP
 -Belajar Golang
--Frame Work Python
+-FrameWork Python
 -Membuat Game

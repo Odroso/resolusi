@@ -1,0 +1,7 @@
+Rencana Belajar
+
+-Belajar Vue
+-Belajar React
+-Belajar C++
+-Belajar Java
+-Belajar Golang

@@ -2,8 +2,9 @@ Rencana Belajar
 
 -FrameWork PHP
  ^Laravel
--Belajar Vue
--Belajar React
+-FrameWork JavaScript
+ ^Vue
+ ^React
 -Belajar C++
   *OOP
 -Belajar Java

@@ -1,5 +1,7 @@
 Rencana Belajar
 
+-FrameWork PHP
+ ^Laravel
 -Belajar Vue
 -Belajar React
 -Belajar C++
@@ -7,5 +9,5 @@ Rencana Belajar
 -Belajar Java
   *OOP
 -Belajar Golang
--Frame Work Python
+-FrameWork Python
 -Membuat Game

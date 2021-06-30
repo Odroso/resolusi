@@ -3,5 +3,8 @@ Rencana Belajar
 -Belajar Vue
 -Belajar React
 -Belajar C++
+  *OOP
 -Belajar Java
+  *OOP
 -Belajar Golang
+-Membuat Game

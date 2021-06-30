@@ -1,11 +1,11 @@
 Rencana Belajar
 
--Belajar Vue
+-Belajar Angular
 -Belajar React
 -Belajar C++
   *OOP
 -Belajar Java
   *OOP
--Belajar Golang
--Frame Work Python
+-FrameWork Python
+ ^DJango
 -Membuat Game

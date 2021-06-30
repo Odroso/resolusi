@@ -2,3 +2,5 @@ Resolusi
 -belajar web desingner
 -belajar programming
 -membuat website
+-belajar javascript
+-belajar css

@@ -1,7 +1,10 @@
 Rencana Belajar
 
--Belajar Angular
--Belajar React
+-FrameWork PHP
+ ^Laravel
+-FrameWork JavaScript
+ ^Vue
+ ^React
 -Belajar C++
   *OOP
 -Belajar Java

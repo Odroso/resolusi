@@ -9,6 +9,6 @@ Rencana Belajar
   *OOP
 -Belajar Java
   *OOP
--Belajar Golang
 -FrameWork Python
+ ^DJango
 -Membuat Game

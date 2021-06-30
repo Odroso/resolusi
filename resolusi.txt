@@ -3,4 +3,4 @@ Resolusi
 -belajar programming
 -membuat website
 -belajar javascript
--belajar css
+-belajar php

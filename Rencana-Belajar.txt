@@ -7,4 +7,5 @@ Rencana Belajar
 -Belajar Java
   *OOP
 -Belajar Golang
+-Frame Work Python
 -Membuat Game
